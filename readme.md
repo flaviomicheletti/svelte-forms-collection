@@ -1,4 +1,4 @@
-![svelte-form](https://user-images.githubusercontent.com/1257048/98466152-7b338e80-21ac-11eb-838f-02a2d5940e04.png)
+![svelte-forms-lib-3](https://user-images.githubusercontent.com/1257048/98466224-eda46e80-21ac-11eb-8394-7fc89bbf5f93.jpg)
 
 #  Web forms made with Svelte
 
